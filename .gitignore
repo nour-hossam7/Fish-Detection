@@ -1,0 +1,19 @@
+# Dataset
+archive/
+data/raw/
+data/processed/
+data/
+
+# Python environments
+.venv/
+venv/
+env/
+
+# Temporary files
+__pycache__/
+*.pyc
+*.cache
+.ipynb_checkpoints/
+
+# Training outputs
+runs/
